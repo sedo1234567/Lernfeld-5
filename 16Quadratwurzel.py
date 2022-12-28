@@ -1,12 +1,14 @@
+#Rechnen
+
 #Modul importieren 
 import math
 
-# Variablen deklarieren 
+#Variablen deklarieren 
 Zahl1 = int(input("Zahl1: "))
 Ergebnis = 0
 
-# Rechnung
+#Rechnung
 Ergebnis = math.sqrt(Zahl1)
 
-# Ausgabe 
+#Ausgabe 
 print("Die Quadratwurzel von",Zahl1,"ist",Ergebnis,".")

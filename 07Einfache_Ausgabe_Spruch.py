@@ -1,3 +1,6 @@
+#Einfache Ausgaben
+
+#Ausgabe
 print("Moegen")
 print("taeten wir schon wollen")
 print("aber Koennen")

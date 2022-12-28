@@ -1,9 +1,11 @@
-# Variablen deklarieren 
+#Rechnen
+
+#Variablen deklarieren 
 Zahl1 = int(input("Zahl1: "))
 Ergebnis = 0
 
-# Rechnung
+#Rechnung
 Ergebnis = Zahl1**2
 
-# Ausgabe 
+#Ausgabe 
 print("Die Quadratzahl von",Zahl1,"ist",Ergebnis,".")

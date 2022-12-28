@@ -1,4 +1,6 @@
-# Variablen Deklarieren
+#5.2.1 - Programmieren (3): Texte und Variablen bei der Ausgabe verketten
+
+#Variablen deklarieren
 Name = "Flybike Gmbh"
 Ort = "Oldenburg"  
 Jahresumsatz = 10000000 

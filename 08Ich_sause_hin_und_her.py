@@ -1,3 +1,6 @@
+#Einfache Ausgaben
+
+#Ausgabe
 print("ICH")
 print("\t","\"SAUSE\"")
 print("\t","\t","\\HIN\\")

@@ -1,3 +1,6 @@
+#5.2.1 - Programmieren (1): Einfache Ausgabe (und Kommentieren)
+
+#Ausgabe
 print("Kunde")
 print("Name:")
 print("Ort:")
