@@ -12,7 +12,7 @@ Großkunde = True
 print("Kunde")
 print("Name:",Name)
 print("Ort:", Ort)
-print("Jahresumsatz:", Jahresumsatz)
+print("Jahresumsatz:", Jahresumsatz) 
 print("Kundenkategorie:", Kundenkategorie)
 print("Rabattsatz:", Rabattsatz)
 print("Großkunde:", Großkunde)
